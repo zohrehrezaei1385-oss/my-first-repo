@@ -1,2 +1,2 @@
 # my-first-repo
-Learning Git and GitHub
+This is my frist repository. I am learning Git and GitHub
